@@ -52,10 +52,21 @@ conda create --name <env> --file requirements.txt
    - For Testing LSTM
 
    ```
-   python test_lstm
+   python test_classification.py
+   ```
+
+   - For Testing LSTM
+
+   ```
+   python test_lstm.py
    ```
 
 5. Enjoy your result
+
+## Classification Result
+
+- Evaluate Score for Classification
+  ![alt text](https://github.com/TitorPs360/btc-price-prediction/blob/main/fig/Classification_result.png?raw=true)
 
 ## LSTM Result
 
