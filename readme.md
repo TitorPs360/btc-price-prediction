@@ -2,8 +2,6 @@
 
 _BTCPricePrediction_ - a project for training an AI (Classification, LSTM) to predict the BTC price, and find when we but or sell.
 
-In this project, I made Snake game which can be controlled by WASD keys. And another important part is the use of reinforcement learning to create AI to play this game.
-
 ## Youtube
 
 For more information can be seen in my [video](https://youtu.be/biaRYkLqCec) on YouTube.
